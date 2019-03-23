@@ -11,12 +11,6 @@ Los plugins configurados en el momento de desarrollo en VSCode son los siguiente
 - __JavasScript (ES6) code snippets__ by charlampos karypidis
 - __TSLint__ by egamma
 
-## Dependencias globales
-
-# Es un cliente simple para probar la plataforma
-
-Con este cliente se pueden probar los diferentes microservicios.
-
 ## Dependencias
 
 ### Node 10
