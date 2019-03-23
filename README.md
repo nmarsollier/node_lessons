@@ -19,6 +19,6 @@ Con este cliente se pueden probar los diferentes microservicios.
 
 ## Dependencias
 
-### Node 8
+### Node 10
 
 Seguir los pasos de instalación del sitio oficial [nodejs.org](https://nodejs.org/en/)
