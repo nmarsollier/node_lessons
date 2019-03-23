@@ -1,2 +1,24 @@
-# node_lessons
-Lecciones de Node para la catedra Programacion Avanzada
+# Lecciones de Node
+
+Este es un proyecto académico para explicar node.
+
+## Guía de Instalación General
+
+El proyecto se desarrollo con [Visual Studio Code](https://code.visualstudio.com/download), podrían utilizarse alternativas como [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/download), [Eclipse](http://www.eclipse.org/downloads/).
+
+Los plugins configurados en el momento de desarrollo en VSCode son los siguientes :
+
+- __JavasScript (ES6) code snippets__ by charlampos karypidis
+- __TSLint__ by egamma
+
+## Dependencias globales
+
+# Es un cliente simple para probar la plataforma
+
+Con este cliente se pueden probar los diferentes microservicios.
+
+## Dependencias
+
+### Node 8
+
+Seguir los pasos de instalación del sitio oficial [nodejs.org](https://nodejs.org/en/)
