@@ -7,6 +7,8 @@ const usersService = require("./users/users.service")
 app.use(bodyParser.json());
 
 // all funciona para todos get/post/etc..
-app.get('/user/settings', usersService.getUserSettings)
+app.get('/user/settings', (req, res) => {
+    res.json(userService.getUserSettings())
+})
 
 app.listen(3000, () => console.log("Server iniciado"))
