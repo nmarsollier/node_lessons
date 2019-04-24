@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 
 // all funciona para todos get/post/etc..
 app.get('/user/settings', (req, res) => {
-    res.json(userService.getUserSettings())
+    res.json(usersService.getUserSettings())
 })
 
 app.listen(3000, () => console.log("Server iniciado"))

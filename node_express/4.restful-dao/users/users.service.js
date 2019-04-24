@@ -1,7 +1,7 @@
 const dao = require("./users.dao")
 
 function getUserSettings() {
-    dao.getCurrentUserSettings()
+    return dao.getCurrentUserSettings()
 }
 
 exports.getUserSettings = getUserSettings
